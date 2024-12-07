@@ -1,6 +1,6 @@
-# Artemis - Chatbot Virtual
+# Chatbot-Baco
 
-Artemis é um chatbot virtual desenvolvido em Python, com interface gráfica utilizando a biblioteca `customtkinter` e acesso a dados através de um arquivo CSV hospedado no Google Sheets. O chatbot permite ao usuário consultar informações por protocolo, data ou hora.
+O **Chatbot-Baco** é um chatbot virtual desenvolvido em Python, com interface gráfica utilizando a biblioteca `customtkinter` e acesso a dados através de um arquivo CSV hospedado no Google Sheets. Ele permite ao usuário consultar informações por protocolo, data ou hora.
 
 ## Funcionalidades
 
@@ -10,12 +10,14 @@ Artemis é um chatbot virtual desenvolvido em Python, com interface gráfica uti
 
 ## Requisitos
 
-Para executar este projeto, você precisará do Python 3.6 ou superior. Além disso, é necessário instalar as seguintes bibliotecas:
+Para executar este projeto, você precisará do **Python 3.6 ou superior**. Além disso, é necessário instalar as seguintes bibliotecas:
 
 - `customtkinter`
 - `requests`
 
-Você pode instalar as dependências necessárias executando:
+### Instalando as dependências
+
+Execute o comando abaixo no terminal para instalar todas as dependências necessárias:
 
 ```bash
 pip install -r requirements.txt
